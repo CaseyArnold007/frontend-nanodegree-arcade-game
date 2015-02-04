@@ -3,7 +3,7 @@ frontend-nanodegree-arcade-game
 
 Welcome to my version of the Frogger game for the Udacity Project! 
 
-Select the index.html to begin playing. 
+Select index.html to begin playing. 
 
 The arrow keys on the keyboard will be used for movement around the grid. 
 
